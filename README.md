@@ -240,6 +240,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 ## Puzzle Games
 
 - Elm 0.19
+  - [https://bkspurgeon.github.io/numberCounter/](https://bkspurgeon.github.io/numberCounter/) - A simple number counting game - Find the numbers from 1 to 30.
   - [m-masataka/elm-puyo](https://github.com/m-masataka/elm-puyo) - An implementation of the Puyo Puyo [[play]](https://m-masataka.github.io/elm-puyo/)
   - [stepheneb/elm-2048](https://github.com/stepheneb/elm-2048) - 2048 Clone [[play]](https://stepheneb.github.io/elm-2048/)
   - [darrensiegel/elm-chess](https://github.com/darrensiegel/elm-chess) - Human vs computer chess game.
